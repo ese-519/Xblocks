@@ -1,10 +1,10 @@
-PROJECT NAME
+AtomWire
 ============
 
 **University of Pennsylvania, ESE 519: Real Time and Embedded Systems**
 
-* TEAM MEMBER NAMES
-* [Blog](https://devpost.com/software/project-name) (TODO: Link to devpost submission)
+* Siri Anil, Sana Kamboj, Sarvesh Patkar
+* [Blog](https://devpost.com/software/atomwire) 
 
 ### DESCRIPTION AND GOALS
 (TODO: Add a brief description of the project and Final Goals)
