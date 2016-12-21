@@ -9,10 +9,10 @@ AtomWire
 ### [Demo](https://youtu.be/rHM-RSoe9MM)
 
 ### Chess
-![](images/animated.gif)
+![](images/Chess.jpg)
 
 ### Tower of Hanoi
-![](images/animated.gif)
+![](images/Towers.jpg)
 
 ### Instructions
 Please follow the instructions in the report to run the system
