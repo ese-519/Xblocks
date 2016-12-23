@@ -1,21 +1,18 @@
-PROJECT NAME
+AtomWire
 ============
 
 **University of Pennsylvania, ESE 519: Real Time and Embedded Systems**
 
-* TEAM MEMBER NAMES
-* [Blog](https://devpost.com/software/project-name) (TODO: Link to devpost submission)
+* Siri Anil, Sana Kamboj, Sarvesh Patkar
+* [Blog](https://devpost.com/software/atomwire) 
 
-### DESCRIPTION AND GOALS
-(TODO: Add a brief description of the project and Final Goals)
+### [Demo](https://youtu.be/rHM-RSoe9MM)
 
-### VIDEO
-[![](images/Thumb.jpg)](https://www.youtube.com/watch?v=vgEyvazwrU8)
+### Chess
+![](images/Chess.jpg)
 
-### IMAGES and GIFs
-Add images and screenshot of your product, user iterface, etc. Animated GIFs of User interfaces would be preferred.
+### Tower of Hanoi
+![](images/Towers.jpg)
 
-![](images/animated.gif)
-
-### BUILD INSTRUCTIONS
-TODO: Steps to follow for anyone to use this code
+### Instructions
+Please follow the instructions in the report to run the system
